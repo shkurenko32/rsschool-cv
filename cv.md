@@ -12,7 +12,7 @@ I'm 22 years old. Now I'm working in purchasing department. I want to change my 
 * My strengths:
     + Team worker
     + Quick learner
-    + Keen of finding solutions to problems
+    + Keen on finding solutions to problems
 
 ## Skills:
 * GitHub
